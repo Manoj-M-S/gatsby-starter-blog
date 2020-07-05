@@ -3,10 +3,10 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Manoj M S`,
-      summary: `who lives and works in Bangalore building useful things.`,
+      summary: `who lives in Bangalore and is actively searching for a web development job.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://github.com/Manoj-M-S`,
+    siteUrl: `https://manoj-blog.netlify.app/`,
     social: {
       twitter: `manojmakarasu`,
     },

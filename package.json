@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "manoj-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog to pen down my thoughts",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Manoj <manoj.makarasu@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/Manoj-M-S/gatsby-starter-blog"
   },
   "scripts": {
     "build": "gatsby build",
